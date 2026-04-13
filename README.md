@@ -15,10 +15,11 @@ I'm a Junior Python developer with a keen interest in Robotics and Artificial In
 - Python
 - C++
   
-### Tools & Frameworks
-- NumPY
-- Pandas
-
+## 🧠 Skills
+- Python
+- Machine Learning (in progress)
+- Data Analysis
+- Problem Solving
 
 
 ## 🏆 Highlights
